@@ -4,7 +4,7 @@ title: Hello world Rajiv
 ---
 ## **HELLO WORLD Rajiv 11ty From Scratch!**
 
-## Here is my first Blog post: [An introduction to open-wc](/src/blogPosts/firstPost/)
+## Here is my first Blog post: [An introduction to open-wc](src\blogPosts\firstPost.md)
 
 ## Here is my second Blog post: [Feeding IP addresses into the API of GeoIP to Obtain Geographic Coordinates (Lat/Long)](src/blogPosts/secondPost/)
 
