@@ -6,9 +6,9 @@ title: Hello world Rajiv
 
 ## Here is my first Blog post: [An introduction to open-wc](firstPost.md)
 
-## Here is my second Blog post: [Feeding IP addresses into the API of GeoIP to Obtain Geographic Coordinates (Lat/Long)](src\blogPosts\secondPost.md)
+## Here is my second Blog post: [Feeding IP addresses into the API of GeoIP to Obtain Geographic Coordinates (Lat/Long)](secondPost.md)
 
-## Here is my third Blog post: [Generating a Docker File for your NASA Image Search Repo](/blogPosts/thirdPost/)
+## Here is my third Blog post: [Generating a Docker File for your NASA Image Search Repo](thirdPost.md)
 
 
 
